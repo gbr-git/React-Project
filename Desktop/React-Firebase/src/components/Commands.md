@@ -3,7 +3,7 @@
 
 # Bootstrap
 
-### `nom i  bootstrap react-bootstrap`
+### `npm i  bootstrap react-bootstrap`
 
 
 
